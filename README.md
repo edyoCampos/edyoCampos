@@ -8,7 +8,7 @@
 
 Engenheiro de Software com cerca de 8 anos de experiência em desenvolvimento backend, integração de sistemas e automação, atuando mais recentemente na construção de infraestrutura para agentes de IA — servidores MCP, orquestração com LangChain/LangGraph e arquitetura RAG com bancos vetoriais (pgvector, Chroma).
 
-Atualmente na BRISA Sociedade para o Desenvolvimento da Tecnologia, em Porto Alegre, RS, e cursando Residência em TIC – Software Developer pela UNISINOS.
+Atualmente atuando como Engenheiro de Software em Porto Alegre, RS, e cursando Residência em TIC – Software Developer pela UNISINOS.
 
 ## Stack
 
@@ -18,30 +18,30 @@ Atualmente na BRISA Sociedade para o Desenvolvimento da Tecnologia, em Porto Ale
 
 ## Projetos em destaque
 
-**Agente de IA para Product Owners** — W3K Tecnologia
-Agente orquestrado com LangGraph que transforma necessidades de negócio em requisitos funcionais, user stories (INVEST) e critérios de aceite em Gherkin.
-Stack: Python, LangGraph, LLM (Gemini)
-Resultado medido: [preencher]
+**Agente de IA para Product Owners**
+- Descrição: agente orquestrado com LangGraph que transforma necessidades de negócio em requisitos funcionais, user stories (INVEST) e critérios de aceite em Gherkin.
+- Stack: Python, LangGraph, LLM (Gemini)
+- Resultado medido: [preencher]
 
-**Servidor MCP corporativo** — W3K Tecnologia
-Servidor MCP expondo ferramentas (Tools) e integrando serviços internos para acesso externo de parceiros e clientes.
-Stack: MCP, Python/Node.js
-Resultado medido: [preencher]
+**Servidor MCP corporativo**
+- Descrição: servidor MCP expondo ferramentas (Tools) e integrando serviços internos para acesso externo de parceiros e clientes.
+- Stack: MCP, Python/Node.js
+- Resultado medido: [preencher]
 
-**Pipelines de CI/CD** — W3K Tecnologia
-Automações e pipelines de CI/CD no Azure DevOps para testes automatizados.
-Stack: Azure DevOps, GitHub Actions
-Resultado medido: redução de 30% no tempo de execução de testes automatizados e no retrabalho em produção
+**Pipelines de CI/CD**
+- Descrição: automações e pipelines de CI/CD para testes automatizados.
+- Stack: Azure DevOps, GitHub Actions
+- Resultado medido: redução de 30% no tempo de execução de testes automatizados e no retrabalho em produção
 
-**Solução RAG corporativa** — BRISA Sociedade para o Desenvolvimento da Tecnologia
-Arquitetura RAG aplicada a caso de uso corporativo, com LangChain para orquestração, Gemini como LLM, pgvector/Chroma para armazenamento vetorial e cache de embeddings/respostas com Redis.
-Stack: LangChain, Gemini, pgvector, Chroma, Redis
-Resultado medido: [preencher]
+**Solução RAG corporativa**
+- Descrição: arquitetura RAG aplicada a caso de uso corporativo, com LangChain para orquestração, Gemini como LLM, pgvector/Chroma para armazenamento vetorial e cache de embeddings/respostas com Redis.
+- Stack: LangChain, Gemini, pgvector, Chroma, Redis
+- Resultado medido: [preencher]
 
-**Infraestrutura de testes embarcados** — Teracom Telemática Ltda
-Infraestrutura de testes embarcados construída do zero, substituindo validação manual por scripts e regras automatizadas.
-Stack: C, C++, Python, Lua
-Resultado medido: [preencher]
+**Infraestrutura de testes embarcados**
+- Descrição: infraestrutura de testes embarcados construída do zero, substituindo validação manual por scripts e regras automatizadas.
+- Stack: C, C++, Python, Lua
+- Resultado medido: [preencher]
 
 ## Atividade
 
@@ -57,17 +57,11 @@ Resultado medido: [preencher]
   <img src="https://github-trophies.vercel.app/?username=edyoCampos&theme=radical&no-frame=true&no-bg=true&column=4" alt="Trofeus do GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/8B5CF6/edyoCampos" alt="Grafico de contribuicao" />
-</p>
-
-<p align="center">
-
-[[cobra aqui]]
-
-</p>
-
-<!-- A animação da cobra exige um GitHub Action à parte (ex.: platane/snk) publicando o SVG em uma branch "output" antes de poder ser referenciada aqui. -->
+<!--
+  Cobra de contribuicao: [[cobra aqui]]
+  Requer GitHub Action a parte (ex.: platane/snk) publicando o SVG em uma
+  branch "output" antes de poder ser referenciada com uma tag <img> aqui.
+-->
 
 ## Contato
 
