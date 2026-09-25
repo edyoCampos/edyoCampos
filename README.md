@@ -46,8 +46,8 @@ Atualmente atuando como Engenheiro de Software em Porto Alegre, RS, e cursando R
 ## Atividade
 
 <p align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api?username=edyoCampos&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A78BFA&icon_color=A78BFA&text_color=E4E4E7" alt="Estatisticas do GitHub" />
-  <img height="150" src="https://streak-stats.demolab.com/?user=edyoCampos&background=0D0D12&border=0D0D12&stroke=0D0D12&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=71717A" alt="Sequencia de commits" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=edyoCampos&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A78BFA&icon_color=A78BFA&text_color=E4E4E7&disable_animations=true" alt="Estatisticas do GitHub" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=edyoCampos&background=0D0D12&border=0D0D12&stroke=0D0D12&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=71717A&disable_animations=true" alt="Sequencia de commits" />
 </p>
 
 <!-- <p align="center">
