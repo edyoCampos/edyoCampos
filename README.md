@@ -46,16 +46,13 @@ Atualmente atuando como Engenheiro de Software em Porto Alegre, RS, e cursando R
 ## Atividade
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=edyoCampos&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A78BFA&icon_color=C084FC&text_color=E4E4E7" alt="Estatisticas do GitHub" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=edyoCampos&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A78BFA&icon_color=A78BFA&text_color=E4E4E7" alt="Estatisticas do GitHub" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=edyoCampos&background=0D0D12&border=0D0D12&stroke=0D0D12&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=71717A" alt="Sequencia de commits" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=edyoCampos&background=0D0D12&border=0D0D12&stroke=0D0D12&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=71717A" alt="Sequencia de commits" />
-</p>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-trophies.vercel.app/?username=edyoCampos&theme=radical&no-frame=true&no-bg=true&column=4" alt="Trofeus do GitHub" />
-</p>
+</p> -->
 
 <!--
   Cobra de contribuicao: [[cobra aqui]]
@@ -67,11 +64,11 @@ Atualmente atuando como Engenheiro de Software em Porto Alegre, RS, e cursando R
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edyocampos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0D12?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0D0D12" alt="LinkedIn" />
   </a>
   <a href="mailto:edyo.campos@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0D0D12?style=for-the-badge&logo=gmail&logoColor=C084FC" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=0D0D12" alt="Email" />
   </a>
 </p>
 
-<p align="center">Portfólio: [preencher]</p>
+<!-- <p align="center">Portfólio: [preencher]</p> -->
